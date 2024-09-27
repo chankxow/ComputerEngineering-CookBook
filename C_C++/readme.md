@@ -1,13 +1,13 @@
 # C Compiler on ubuntu using terminals
 
-    1. open Terminal : Crtl +Alt + T
-    2. Update package list always
+1. open Terminal : Crtl +Alt + T
+2. Update package list always
     
 ```bash
 sudo apt update
 ```
 
-3.install GCC (GNU Compiler Collection)
+3.    install GCC (GNU Compiler Collection)
     
 ```bash
 sudo apt isntall build-essential
