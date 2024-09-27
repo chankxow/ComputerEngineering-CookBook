@@ -23,7 +23,7 @@ gcc --version
 
 1. create example C file with command 
 ```bash
-   nano hello.c
+nano hello.c
 ```
 
 and then input code:
@@ -42,10 +42,10 @@ int main() {
 
 6.Compiler C program :Using this command
 ```bash
-    gcc hello.c -o hello
+gcc hello.c -o hello
 ```
 
 7.run Program :With command
 ```bash
-    ./hello
+./hello
 ```
