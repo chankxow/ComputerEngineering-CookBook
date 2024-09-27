@@ -1,7 +1,7 @@
 # C Compiler on ubuntu using terminals
 
-1. open Terminal : Crtl +Alt + T
-2. Update package list always
+    1. open Terminal : Crtl +Alt + T
+    2. Update package list always
     
 ```bash
 sudo apt update
